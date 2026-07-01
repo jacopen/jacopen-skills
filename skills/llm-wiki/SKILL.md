@@ -1,6 +1,6 @@
 ---
 name: llm-wiki
-description: Build and maintain a persistent, LLM-curated knowledge base (LLM Wiki pattern) conformant with the Open Knowledge Format (OKF v0.1). Wiki bundles live under /home/jacopen/vault/06_Wiki/. Use this when the user wants to ingest a new source, query an existing KB, lint/health-check a KB, or add a new theme. Themes currently: 01_PlatformEngineering, 02_IncidentManagement. Trigger phrases include "ingest", "取り込み", "wikiに入れて", "KBに追加", "query the wiki", "wikiで調べて", "lint the wiki", "wikiを整えて".
+description: Build and maintain a persistent, LLM-curated knowledge base (LLM Wiki pattern) conformant with the Open Knowledge Format (OKF v0.1). Wiki bundles live under /home/jacopen/vault/06_Wiki/. Use this when the user wants to ingest a new source, query an existing KB, lint/health-check a KB, or add a new theme. Themes currently 01_PlatformEngineering and 02_IncidentManagement. Trigger phrases include "ingest", "取り込み", "wikiに入れて", "KBに追加", "query the wiki", "wikiで調べて", "lint the wiki", "wikiを整えて".
 ---
 
 # llm-wiki — OKF-conformant knowledge base skill
